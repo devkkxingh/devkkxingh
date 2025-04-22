@@ -2,28 +2,43 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Krishna+Kant+Singh!;Senior+Developer...;UI/UX+Architect...;Problem+Solver...;" alt="Typing SVG" />
 </div>
 
+<!-- Optional: Add a cool banner image here if you have one -->
+<!-- <p align="center">
+  <img src="YOUR_BANNER_IMAGE_URL" alt="Banner" width="800"/>
+</p> -->
+
 ## 👨‍💻 About Me
 
 I am an experienced developer specializing in building robust, scalable, and user-centric web applications. With a strong focus on frontend technologies and UI/UX principles, I leverage modern frameworks and best practices to deliver high-quality solutions that address complex challenges and enhance user engagement. I thrive in collaborative environments and am constantly exploring emerging technologies to drive innovation.
 
 > "Engineering intuitive solutions for complex user needs is my core focus. For instance, addressing a friend's reading focus challenges inspired a lightweight OCR/TTS application."
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
-<div align="center">
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-13.svg" alt="nextjs" width="40" height="40"/> </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+  <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/> </a>
+  <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg" alt="bulma" width="40" height="40"/> </a>
+  <a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="threejs" width="40" height="40"/> </a>
+   <a href="https://supabase.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/supabase-1.svg" alt="supabase" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+</p>
+
+<!-- Optional: Add Shields.io badges as well if preferred -->
+<!-- <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/-Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI" />
-  <img src="https://img.shields.io/badge/-Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white" alt="Bulma" />
-  <img src="https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/-Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  </div>
+  ... other badges ...
+</div> -->
+
+<p align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" /> </p>
 
 ## 🚀 Highlighted Projects
 
@@ -56,12 +71,23 @@ A Chrome extension simplifying LeetCode problems with clear explanations, intera
 An accessibility-focused app using OCR and Text-to-Speech to assist users with reading difficulties by scanning and vocalizing book content.
 *   **Focus:** Accessibility, OCR, Text-to-Speech, Translation.
 
-## 📊 GitHub Stats
+<p align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" /> </p>
+
+## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devkkxingh&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devkkxingh&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devkkxingh&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devkkxingh&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devkkxingh&bg_color=1a1b27&color=7af79a&line=7af79a&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+<div align="center">
+  <img src="https://github-contribution-grid-snake.vercel.app/snake.svg?username=devkkxingh&theme=github-dark" alt="Snake contribution grid" />
+</div>
+
+
+<p align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" /> </p>
 
 ## 🔗 Connect With Me
 
@@ -89,5 +115,5 @@ An accessibility-focused app using OCR and Text-to-Speech to assist users with r
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=devkkxingh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=devkkxingh&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </div>
