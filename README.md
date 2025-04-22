@@ -42,7 +42,7 @@ I am an experienced developer specializing in building robust, scalable, and use
 
 ## 🚀 Highlighted Projects
 
-*(Note: Add repository/live links where applicable)*
+<!-- *(Note: Add repository/live links where applicable)* -->
 
 ### 🛒 Shopify Next.js External App
 A secure, modern Next.js application integrating with Shopify stores via OAuth. Provides a foundation for building Shopify apps with secure session management (JWT), encrypted token storage (Supabase), and middleware-protected routes.
