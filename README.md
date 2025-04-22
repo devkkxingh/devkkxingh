@@ -27,7 +27,7 @@ I am an experienced developer specializing in building robust, scalable, and use
   <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/> </a>
   <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg" alt="bulma" width="40" height="40"/> </a>
   <a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="threejs" width="40" height="40"/> </a>
-   <a href="https://supabase.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/supabase-1.svg" alt="supabase" width="40" height="40"/> </a>
+   <a href="https://supabase.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original-wordmark.svg" alt="supabase" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
@@ -78,12 +78,13 @@ An accessibility-focused app using OCR and Text-to-Speech to assist users with r
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devkkxingh&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devkkxingh&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkkxingh&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </div>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devkkxingh&bg_color=1a1b27&color=7af79a&line=7af79a&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 <div align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/snake.svg?username=devkkxingh&theme=github-dark" alt="Snake contribution grid" />
+  <img src="https://github-contribution-grid-snake.vercel.app/snake.svg?username=devkkxingh&theme=radical" alt="Snake contribution grid" />
 </div>
 
 
@@ -112,7 +113,7 @@ An accessibility-focused app using OCR and Text-to-Speech to assist users with r
   <img src="https://github-profile-trophy.vercel.app/?username=devkkxingh&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
----
+<p align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" /> </p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=devkkxingh&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
