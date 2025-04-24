@@ -7,6 +7,11 @@
   <img src="YOUR_BANNER_IMAGE_URL" alt="Banner" width="800"/>
 </p> -->
 
+<div align="center">
+  <img src="dist/github-snake.svg" alt="Snake contribution grid" />
+  <!-- Alternative flat snake theme: &theme=solarized-dark -->
+</div>
+
 ## 👨‍💻 About Me
 
 I am an experienced developer specializing in building robust, scalable, and user-centric web applications. With a strong focus on frontend technologies and UI/UX principles, I leverage modern frameworks and best practices to deliver high-quality solutions that address complex challenges and enhance user engagement. I thrive in collaborative environments and am constantly exploring emerging technologies to drive innovation.
@@ -76,10 +81,6 @@ An accessibility-focused app using OCR and Text-to-Speech to assist users with r
 </div>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devkkxingh&bg_color=282c34&color=98c379&line=98c379&point=61afef&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-<div align="center">
-  <img src="dist/github-snake.svg" alt="Snake contribution grid" />
-  <!-- Alternative flat snake theme: &theme=solarized-dark -->
 </div>
 
 ---
