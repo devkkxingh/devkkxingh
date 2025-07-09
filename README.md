@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Krishna%20Kant%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="Header" />
+  <h1 style="font-size: 48px; font-weight: 700; color: #58A6FF; margin: 40px 0; letter-spacing: 2px;">Krishna Kant Singh</h1>
+  <div style="width: 60%; height: 3px; background: #58A6FF; margin: 20px auto; border-radius: 2px;"></div>
 </div>
 
 <div align="center">
@@ -19,17 +20,16 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> About Me
 
 <div align="center">
-  <table>
+  <table style="border: none; background: none;">
     <tr>
-      <td>
-        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" alt="Coding gif" style="border-radius: 15px;">
+      <td style="padding: 20px; vertical-align: top;">
+        <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=400&h=300&fit=crop&crop=center" width="320" height="240" alt="Clean coding workspace" style="border-radius: 8px; border: 2px solid #21262D;">
       </td>
-      <td>
-         <h3>Passionate Full-Stack Developer</h3>
-         <p>I specialize in building <strong>robust, scalable, and user-centric</strong> web applications with a strong focus on frontend technologies and UI/UX principles. I leverage modern frameworks and best practices to deliver high-quality solutions that address complex challenges and enhance user engagement.</p>
-         <br>
-         <h3>Innovation-Driven</h3>
-         <p>I thrive in collaborative environments and am constantly exploring emerging technologies to drive innovation and create meaningful digital experiences.</p>
+      <td style="padding: 20px; vertical-align: top; text-align: left;">
+        <h3 style="color: #58A6FF; margin-bottom: 15px; font-weight: 600;">Passionate Full-Stack Developer</h3>
+        <p style="line-height: 1.6; margin-bottom: 20px;">I specialize in building <strong>robust, scalable, and user-centric</strong> web applications with a strong focus on frontend technologies and UI/UX principles. I leverage modern frameworks and best practices to deliver high-quality solutions that address complex challenges and enhance user engagement.</p>
+        <h3 style="color: #58A6FF; margin-bottom: 15px; font-weight: 600;">Innovation-Driven</h3>
+        <p style="line-height: 1.6;">I thrive in collaborative environments and am constantly exploring emerging technologies to drive innovation and create meaningful digital experiences.</p>
       </td>
     </tr>
   </table>
@@ -42,59 +42,49 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> Tech Stack & Tools
 
 <div align="center">
-  <table>
+  <table style="border: none; background: none; margin: 0 auto;">
     <tr>
-      <td align="center" width="200">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" style="border-radius: 15px;" />
-        <br><strong>JavaScript</strong>
+      <td align="center" width="250" style="padding: 20px; vertical-align: top;">
+        <div style="background: #0D1117; border: 1px solid #21262D; border-radius: 8px; padding: 20px; margin: 10px;">
+          <h3 style="color: #58A6FF; margin-bottom: 20px; font-weight: 600;">Frontend</h3>
+          <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin: 4px;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin: 4px;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" style="margin: 4px;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40" style="margin: 4px;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" style="margin: 4px;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" style="margin: 4px;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="40" height="40" style="margin: 4px;">
+          </div>
+        </div>
       </td>
-      <td align="center" width="200">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" style="border-radius: 15px;" />
-        <br><strong>TypeScript</strong>
+      <td align="center" width="250" style="padding: 20px; vertical-align: top;">
+        <div style="background: #0D1117; border: 1px solid #21262D; border-radius: 8px; padding: 20px; margin: 10px;">
+          <h3 style="color: #58A6FF; margin-bottom: 20px; font-weight: 600;">Backend</h3>
+          <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="margin: 4px;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40" style="margin: 4px;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin: 4px;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40" style="margin: 4px;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" style="margin: 4px;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40" style="margin: 4px;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40" style="margin: 4px;">
+          </div>
+        </div>
       </td>
-      <td align="center" width="200">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" style="border-radius: 15px;" />
-        <br><strong>React</strong>
-      </td>
-      <td align="center" width="200">
-        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="65" height="65" style="border-radius: 15px;" />
-        <br><strong>Next.js</strong>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" style="border-radius: 15px;" />
-        <br><strong>Redux</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="65" height="65" style="border-radius: 15px;" />
-        <br><strong>HTML5</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="65" height="65" style="border-radius: 15px;" />
-        <br><strong>CSS3</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="65" height="65" style="border-radius: 15px;" />
-        <br><strong>Tailwind CSS</strong>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=materialui" alt="Material UI" width="65" height="65" style="border-radius: 15px;" />
-        <br><strong>Material UI</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" width="65" height="65" style="border-radius: 15px;" />
-        <br><strong>Three.js</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="65" height="65" style="border-radius: 15px;" />
-        <br><strong>Supabase</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="65" height="65" style="border-radius: 15px;" />
-        <br><strong>Git</strong>
+      <td align="center" width="250" style="padding: 20px; vertical-align: top;">
+        <div style="background: #0D1117; border: 1px solid #21262D; border-radius: 8px; padding: 20px; margin: 10px;">
+          <h3 style="color: #58A6FF; margin-bottom: 20px; font-weight: 600;">Database & Cloud</h3>
+          <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="margin: 4px;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="margin: 4px;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="margin: 4px;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40" style="margin: 4px;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40" style="margin: 4px;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="margin: 4px;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40" style="margin: 4px;">
+          </div>
+        </div>
       </td>
     </tr>
   </table>
@@ -111,68 +101,75 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30"> Featured Projects
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-         <h3 align="center">Shopify Next.js External App</h3>
-         <div align="center">
-           <img src="https://github-readme-stats.vercel.app/api/pin/?username=devkkxingh&repo=shopify-nextjs-app&theme=tokyonight&hide_border=true&border_radius=15" alt="Shopify App" style="margin: 10px;">
-         </div>
-         <p><strong>Secure OAuth Integration</strong><br>
-         A modern Next.js application with Shopify store integration, featuring JWT session management and encrypted token storage via Supabase.</p>
-         <p>
-           <img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind,supabase" style="border-radius: 8px;">
-         </p>
-       </td>
-       <td width="50%">
-         <h3 align="center">SnapYour.Codes</h3>
-         <div align="center">
-           <img src="https://github-readme-stats.vercel.app/api/pin/?username=devkkxingh&repo=snap-your-codes&theme=tokyonight&hide_border=true&border_radius=15" alt="SnapYour.Codes" style="margin: 10px;">
-         </div>
-         <p><strong>Code Screenshot Generator</strong><br>
-         Intuitive tool for creating beautiful, customizable code snippet images with multiple themes and responsive design.</p>
-         <p>
-           <img src="https://skillicons.dev/icons?i=react,redux,tailwind,css" style="border-radius: 8px;">
-         </p>
-       </td>
-    </tr>
-    <tr>
-      <td>
-         <h3 align="center">Stack 'Em High</h3>
-         <div align="center">
-           <img src="https://github-readme-stats.vercel.app/api/pin/?username=devkkxingh&repo=stack-em-high&theme=tokyonight&hide_border=true&border_radius=15" alt="Stack Em High" style="margin: 10px;">
-         </div>
-         <p><strong>3D Physics Game</strong><br>
-         Interactive block stacking game with realistic physics simulation, wind effects, and immersive 3D graphics.</p>
-         <p>
-           <img src="https://skillicons.dev/icons?i=threejs,javascript,html,css" style="border-radius: 8px;">
-         </p>
-       </td>
-       <td>
-         <h3 align="center">LeetCode Guru</h3>
-         <div align="center">
-           <img src="https://github-readme-stats.vercel.app/api/pin/?username=devkkxingh&repo=leetcode-guru&theme=tokyonight&hide_border=true&border_radius=15" alt="LeetCode Guru" style="margin: 10px;">
-         </div>
-         <p><strong>Chrome Extension</strong><br>
-         Simplifies LeetCode problems with clear explanations, interactive hints, and example breakdowns in browser side panel.</p>
-         <p>
-           <img src="https://skillicons.dev/icons?i=javascript,html,css,chrome" style="border-radius: 8px;">
-         </p>
-       </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <h3><a href="https://webdev-club.vercel.app">WebDev Club Community</a></h3>
-  <p>A vibrant platform fostering collaboration among frontend developers</p>
-  <img src="https://img.shields.io/badge/Live%20Project-success?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Live Project">
-</div>
-
-<div align="center">
-  <h3>Book Reading Assistant (In Development)</h3>
-  <p>Accessibility-focused OCR & TTS application for reading assistance</p>
-  <img src="https://img.shields.io/badge/In%20Development-orange?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="In Development">
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 20px; max-width: 1200px; margin: 0 auto;">
+    
+    <!-- Project 1 -->
+    <div style="background: #0D1117; border: 1px solid #21262D; border-radius: 8px; padding: 20px; height: 280px; display: flex; flex-direction: column;">
+      <h3 style="color: #58A6FF; margin: 0 0 10px 0; font-size: 18px; font-weight: 600;">Shopify Next.js External App</h3>
+      <p style="color: #C9D1D9; font-size: 14px; line-height: 1.5; margin: 0 0 15px 0; flex-grow: 1;">A comprehensive Shopify external application built with Next.js, featuring secure OAuth integration, real-time data synchronization, and responsive admin dashboard for seamless e-commerce management.</p>
+      <div style="margin-top: auto;">
+        <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,shopify" alt="Tech Stack" width="120" style="margin-bottom: 10px;">
+        <br>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=devkkxingh&repo=shopify-nextjs-app&theme=tokyonight&border_radius=6&hide_border=true" alt="Repo" width="100%" style="max-width: 300px;">
+      </div>
+    </div>
+    
+    <!-- Project 2 -->
+    <div style="background: #0D1117; border: 1px solid #21262D; border-radius: 8px; padding: 20px; height: 280px; display: flex; flex-direction: column;">
+      <h3 style="color: #58A6FF; margin: 0 0 10px 0; font-size: 18px; font-weight: 600;">SnapYour.Codes</h3>
+      <p style="color: #C9D1D9; font-size: 14px; line-height: 1.5; margin: 0 0 15px 0; flex-grow: 1;">An innovative code screenshot generator that transforms code snippets into beautiful, shareable images with customizable themes, syntax highlighting, and social media optimization.</p>
+      <div style="margin-top: auto;">
+        <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" alt="Tech Stack" width="120" style="margin-bottom: 10px;">
+        <br>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=devkkxingh&repo=snap-your-codes&theme=tokyonight&border_radius=6&hide_border=true" alt="Repo" width="100%" style="max-width: 300px;">
+      </div>
+    </div>
+    
+    <!-- Project 3 -->
+    <div style="background: #0D1117; border: 1px solid #21262D; border-radius: 8px; padding: 20px; height: 280px; display: flex; flex-direction: column;">
+      <h3 style="color: #58A6FF; margin: 0 0 10px 0; font-size: 18px; font-weight: 600;">Stack 'Em High</h3>
+      <p style="color: #C9D1D9; font-size: 14px; line-height: 1.5; margin: 0 0 15px 0; flex-grow: 1;">An engaging 3D physics-based game built with Three.js, featuring realistic physics simulation, progressive difficulty levels, and immersive gameplay mechanics.</p>
+      <div style="margin-top: auto;">
+        <img src="https://skillicons.dev/icons?i=threejs,javascript,html,css" alt="Tech Stack" width="120" style="margin-bottom: 10px;">
+        <br>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=devkkxingh&repo=stack-em-high&theme=tokyonight&border_radius=6&hide_border=true" alt="Repo" width="100%" style="max-width: 300px;">
+      </div>
+    </div>
+    
+    <!-- Project 4 -->
+    <div style="background: #0D1117; border: 1px solid #21262D; border-radius: 8px; padding: 20px; height: 280px; display: flex; flex-direction: column;">
+      <h3 style="color: #58A6FF; margin: 0 0 10px 0; font-size: 18px; font-weight: 600;">LeetCode Guru</h3>
+      <p style="color: #C9D1D9; font-size: 14px; line-height: 1.5; margin: 0 0 15px 0; flex-grow: 1;">A powerful Chrome extension designed to enhance the LeetCode experience with advanced problem tracking, solution management, and performance analytics for competitive programmers.</p>
+      <div style="margin-top: auto;">
+        <img src="https://skillicons.dev/icons?i=javascript,html,css,chrome" alt="Tech Stack" width="120" style="margin-bottom: 10px;">
+        <br>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=devkkxingh&repo=leetcode-guru&theme=tokyonight&border_radius=6&hide_border=true" alt="Repo" width="100%" style="max-width: 300px;">
+      </div>
+    </div>
+    
+    <!-- Project 5 -->
+    <div style="background: #0D1117; border: 1px solid #21262D; border-radius: 8px; padding: 20px; height: 280px; display: flex; flex-direction: column;">
+      <h3 style="color: #58A6FF; margin: 0 0 10px 0; font-size: 18px; font-weight: 600;">WebDev Club Community</h3>
+      <p style="color: #C9D1D9; font-size: 14px; line-height: 1.5; margin: 0 0 15px 0; flex-grow: 1;">A vibrant community platform for web developers featuring discussion forums, resource sharing, project showcases, and collaborative learning opportunities.</p>
+      <div style="margin-top: auto;">
+        <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express" alt="Tech Stack" width="120" style="margin-bottom: 10px;">
+        <br>
+        <img src="https://img.shields.io/badge/Live%20Project-success?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Live Project" style="border-radius: 5px;">
+      </div>
+    </div>
+    
+    <!-- Project 6 -->
+    <div style="background: #0D1117; border: 1px solid #21262D; border-radius: 8px; padding: 20px; height: 280px; display: flex; flex-direction: column;">
+      <h3 style="color: #58A6FF; margin: 0 0 10px 0; font-size: 18px; font-weight: 600;">Book Reading Assistant</h3>
+      <p style="color: #C9D1D9; font-size: 14px; line-height: 1.5; margin: 0 0 15px 0; flex-grow: 1;">An AI-powered reading companion that provides intelligent summaries, vocabulary assistance, reading progress tracking, and personalized recommendations for enhanced learning.</p>
+      <div style="margin-top: auto;">
+        <img src="https://skillicons.dev/icons?i=python,django,ai,postgresql" alt="Tech Stack" width="120" style="margin-bottom: 10px;">
+        <br>
+        <img src="https://img.shields.io/badge/In%20Development-orange?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="In Development" style="border-radius: 5px;">
+      </div>
+    </div>
+    
+  </div>
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="30"> GitHub Analytics
