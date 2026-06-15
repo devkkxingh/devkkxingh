@@ -32,7 +32,7 @@
   </defs>
 
   <g clip-path="url(#l1)"><text x="28" y="96"  class="mono b"><tspan class="g">$</tspan> whoami</text></g>
-  <g clip-path="url(#l2)"><text x="28" y="126" class="mono"><tspan class="name">Krishna Kant Singh</tspan><tspan class="mut">  —  Frontend Engineer &amp; UI/UX Architect</tspan></text></g>
+  <g clip-path="url(#l2)"><text x="28" y="126" class="mono"><tspan class="name">Krishna Kant Singh</tspan><tspan class="mut">  —  Forward Deployed Engineer &amp; UI/UX Architect</tspan></text></g>
   <g clip-path="url(#l3)"><text x="28" y="156" class="mono b"><tspan class="g">$</tspan> cat focus.txt</text></g>
   <g clip-path="url(#l4)"><text x="28" y="186" class="mono"><tspan class="acc">frontend</tspan><tspan class="mut"> · </tspan><tspan class="acc">backend</tspan><tspan class="mut"> · </tspan><tspan class="acc">applied AI</tspan></text></g>
   <g clip-path="url(#l5)"><text x="28" y="216" class="mono b"><tspan class="g">$</tspan> ls ~/projects</text></g>
