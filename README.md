@@ -1,7 +1,7 @@
 <h1 align="center">Krishna Kant Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=2563EB&center=true&vCenter=true&width=720&height=46&lines=Senior+Frontend+Engineer+%26+UI%2FUX+Architect;I+build+AI-driven+products%2C+end+to+end;Frontend+%C2%B7+Backend+%C2%B7+Applied+AI;Turning+complex+problems+into+clean+products" alt="Headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=27&pause=1000&color=2563EB&center=true&vCenter=true&width=720&height=46&lines=I+build+AI-driven+products%2C+end+to+end;Frontend+%C2%B7+Backend+%C2%B7+Applied+AI;Code.+Design.+Ship.+Repeat.;Turning+ideas+into+products+people+love" alt="Headline" />
 </p>
 
 <p align="center">
