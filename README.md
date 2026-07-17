@@ -6,8 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/devkkxingh"><img src="https://img.shields.io/badge/GitHub-1e293b?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/kkxingh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://x.com/kkxingh"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.linkedin.com/in/kkxingh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <img src="assets/terminal.svg" alt="Terminal" width="100%" />
